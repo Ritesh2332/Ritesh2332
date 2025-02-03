@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔹 Aspiring Data Scientist | Passionate about data-driven insights & problem-solving<br>🔹 Proficient in: Python, Excel, DSA, Java<br>🔹 Seeking: Exciting Data Science Internship Opportunities<br>🔹 Education: Currently at Lovely Professional University
+🔹 Aspiring Data Scientist | Passionate about data-driven insights & problem-solving<br>🔹 Proficient in: Python, Excel, DSA & Java<br>🔹 Seeking: Exciting Data Science Internship Opportunities<br>🔹 Education: Currently at Lovely Professional University
 
 
 ## 🌐 Socials:
