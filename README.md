@@ -1,8 +1,8 @@
 # 💫 About Me:
 
-🔹 Data Science & ML Practitioner | Turning data into actionable insights
-🔹 Skilled in: Python, SQL, Power BI, Machine Learning
-🔹 Built real-world projects in data pipelines, ML & analytics
+🔹 Data Science & ML Practitioner | Turning data into actionable insights   
+🔹 Skilled in: Python, SQL, Power BI, Machine Learning  
+🔹 Built real-world projects in data pipelines, ML & analytics  
 🔹 Currently pursuing B.Tech CSE @ Lovely Professional University
 
 ---
@@ -16,17 +16,17 @@
 
 # 🚀 Featured Projects:
 
-🔹 **Real-Time News Data Pipeline**
-→ RSS + Web Scraping + Python + Pandas
-→ Automated real-time data collection
+🔹**Real-Time News Data Pipeline**  
+ → RSS + Web Scraping + Python + Pandas  
+ → Automated real-time data collection
 
-🔹 **Iris ML Classification Model**
-→ 95%+ accuracy using Scikit-learn
-→ EDA + Model Evaluation + Deployment
+🔹**Iris ML Classification Model**     
+ → 95%+ accuracy using Scikit-learn  
+ → EDA + Model Evaluation + Deployment
 
-🔹 **Prison Analytics Dashboard**
-→ Power BI dashboard with 20+ KPIs
-→ Insights from 1.3M+ records
+🔹**Prison Analytics Dashboard**   
+ → Power BI dashboard with 20+ KPIs  
+ → Insights from 1.3M+ records
 
 ---
 
@@ -37,7 +37,14 @@
 ![Power BI](https://img.shields.io/badge/powerbi-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Hadoop](https://img.shields.io/badge/hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 ---
 
