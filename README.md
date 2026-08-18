@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔹 Data Science & ML Practitioner | Turning data into actionable insights    
+🔹 Data Science & AI/ML Practitioner | Turning data into actionable insights    
 🔹 Skilled in: Python, SQL, Machine Learning, Pytorch, Power BI, Excel  
 🔹 Built real-world projects in data pipelines, ML & analytics   
 🔹 Currently pursuing B.Tech CSE @ Lovely Professional University
